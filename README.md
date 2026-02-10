@@ -73,12 +73,6 @@ Intelligent resume analysis application built with modern frontend tooling.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fateen-rdl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fateen-rdl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
