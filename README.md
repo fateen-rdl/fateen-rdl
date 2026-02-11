@@ -72,13 +72,3 @@ Intelligent resume analysis application built with modern frontend tooling.
 - 🏛️ **Senate Member**, Graduate Student Government (Student Affairs)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fateen-rdl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>Open to Summer 2026 SWE internship opportunities!</i>
-</p>
